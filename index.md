@@ -2,6 +2,6 @@
 
 Das hier ist meine Website, zwar klein, aber hilfreich zum ausprobieren.
 
-Hello,
+Hallo,
 
-this is not private!
+dies hier ist nicht privat!
